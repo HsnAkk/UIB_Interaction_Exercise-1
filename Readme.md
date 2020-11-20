@@ -4,8 +4,8 @@ Single webpage with dropdown menu, clip-path and animations
 
 ## Instructions
 
-- Add a title to the document
-- Use External CSS to style the document
+- Add a title to the document.
+- Use External CSS to style the document.
 - Please just code what you see, neither less nor more.
 - Navigation menu should be dropdown menu, and also use clip-path property and animations in proper sections.
 
